@@ -1,0 +1,19 @@
+{
+  "name": "jstuto",
+  "version": "0.0.1",
+  "description": "This package for Node,nvm,npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gautam-s-git/Jstutorial.git"
+  },
+  "author": "Gautam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gautam-s-git/Jstutorial/issues"
+  },
+  "homepage": "https://github.com/gautam-s-git/Jstutorial#readme"
+}

@@ -1,0 +1,1 @@
+console.log('wlocme to javascript');
